@@ -16,7 +16,7 @@
 | [02｜MiniVCU 扭矩限扭模型](https://ea6e8con64.feishu.cn/wiki/HXntwkbkliT2BBkjHHAcWmZenLe) | Simulink 二维限扭 Map、参数版本管理、五类场景验证 |
 | [03｜测试方法训练](https://ea6e8con64.feishu.cn/wiki/GajQwq8URioosvk4lJicH3Ksnad) | 通用测试框架、课程方案、标定与总线方法笔记 |
 | [04｜动手经历与学习方式](https://ea6e8con64.feishu.cn/wiki/WF5Yw6ntuiuEC3khFI4cQexmnah) | 竞赛动手工作、实习动手工作与自学方法 |
-| [05｜关于我与联系](https://ea6e8con64.feishu.cn/wiki/K0TlwGdTziXj89ky9mAcDLIfnYb) | 岗位定位、能力边界与补强计划 |
+| [05｜关于我与联系](https://ea6e8con64.feishu.cn/wiki/K0TlwGdTziXj89ky9mAcDLIfnYb) | 岗位定位、能力边界与联系方式 |
 
 ## 代码与项目仓库
 
